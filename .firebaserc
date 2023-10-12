@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "doll-house-b55d9"
-  }
+    "default": "educational-dolls",
+    "y": "educational-dolls"
+  },
+  "targets": {},
+  "etags": {}
 }
