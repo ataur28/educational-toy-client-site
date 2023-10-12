@@ -1,0 +1,112 @@
+[
+    {
+        "_id": "646712535dca1a328c5ce7df",
+        "picture": "https://i.ibb.co/tszr0w2/download.jpg",
+        "toyName": "Math Box",
+        "sellerName": "Valentine Juarez",
+        "sellerEmail": "valentinejuarez@digial.com",
+        "category": "math",
+        "price": "170.55",
+        "rating": "4.33",
+        "quantity": "4",
+        "details": "Doll making involves designing, constructing, adding features and details, assembling, and adding finishing touches to create a unique doll.\r\n"
+    },
+    {
+        "_id": "646712536a696dc379d62735",
+        "picture": "https://i.ibb.co/CtrRcsR/images.jpg",
+        "toyName": "Number Blocks",
+        "sellerName": "Quinn Little",
+        "sellerEmail": "quinnlittle@digial.com",
+        "category": "math",
+        "price": "253.55",
+        "rating": "3.53",
+        "quantity": "6",
+        "details": "Doll making involves designing, constructing, and adding details to create a unique doll using materials such as fabric, clay, porcelain, or vinyl.\r\n"
+    },
+    {
+        "_id": "64671253c88207d6e4bd5477",
+        "picture": "https://i.ibb.co/YfcHkTM/images.jpg",
+        "toyName": "Best Math Box",
+        "sellerName": "Bella",
+        "sellerEmail": "hancockmeyers@digial.com",
+        "category": "math",
+        "price": "150.55",
+        "rating": "4.60",
+        "quantity": "2",
+        "details": "Doll making involves designing, constructing, and adding details to create a unique doll using materials such as fabric, clay, porcelain, or vinyl.\r\n"
+    },
+    {
+        "_id": "64671253d74c70d857d41012",
+        "picture": "https://i.ibb.co/Dfn9Dt1/images.jpg",
+        "toyName": "Microscope",
+        "sellerName": "Nanette Gibson",
+        "sellerEmail": "nanettegibson@digial.com",
+        "category": "science",
+        "price": "220.55",
+        "rating": "4.33",
+        "quantity": "8",
+        "details": "Doll making involves designing, constructing, adding features and details, assembling, and adding finishing touches to create a unique doll.\r\n"
+    },
+    {
+        "_id": "64671253b6d906f3022ae360",
+        "picture": "https://i.ibb.co/YD2sZzj/images.jpg",
+        "toyName": "Toddle",
+        "sellerName": "Miriam Wilkerson",
+        "sellerEmail": "miriamwilkerson@digial.com",
+        "category": "science",
+        "price": "153.55",
+        "rating": "4.23",
+        "quantity": "4",
+        "details": "Doll making involves designing, constructing, and adding details to create a unique doll using materials such as fabric, clay, porcelain, or vinyl.\r\n"
+    },
+    {
+        "_id": "64671253949dcec0131e1794",
+        "picture": "https://i.ibb.co/fGXzjqS/images.jpg",
+        "toyName": "Telescope",
+        "sellerName": "Hilda Snider",
+        "sellerEmail": "hildasnider@digial.com",
+        "category": "science",
+        "price": "260.55",
+        "rating": "4.53",
+        "quantity": "5",
+        "details": "Doll making involves designing, constructing, and adding details to create a unique doll using materials such as fabric, clay, porcelain, or vinyl.\r\n"
+    },
+    {
+        "_id": "646712536720805592e91b5e",
+        "picture": "https://i.ibb.co/DYgPzQ2/0009578-hydraulic-cyborg-hand-550.jpg",
+        "toyName": "Hydraulic Cyborg Hand",
+        "sellerName": "Watkins Mclean",
+        "sellerEmail": "watkinsmclean@digial.com",
+        "category": "engineering",
+        "price": "273.55",
+        "rating": "4.33",
+        "quantity": "3",
+        "details": "Doll making involves designing, constructing, adding features and details, assembling, and adding finishing touches to create a unique doll.\r\n"
+    },
+    {
+        "_id": "64671253a8bd997d79a620f0",
+        "picture": "https://i.ibb.co/YdCzgSg/0013174-mechanics-monster-truck-300.jpg",
+        "toyName": "Monster Truck",
+        "sellerName": "Adela Hoover",
+        "sellerEmail": "adelahoover@digial.com",
+        "category": "engineering",
+        "price": "173.55",
+        "rating": "4.43",
+        "quantity": "3",
+        "details": "Doll making involves designing, constructing, and adding details to create a unique doll using materials such as fabric, clay, porcelain, or vinyl.\r\n"
+    },
+    {
+        "_id": "6467136ca3673654b3ab1481",
+        "picture": "https://i.ibb.co/YjgSqT6/0008523-tobbie-robot-300.jpg",
+        "toyName": "Tobbie Robot",
+        "sellerName": "Kline Glenn",
+        "sellerEmail": "klineglenn@digial.com",
+        "category": "engineering",
+        "price": "27.55",
+        "rating": "3.33",
+        "quantity": "7",
+        "details": "Doll making involves designing, constructing, adding features and details, assembling, and adding finishing touches to create a unique doll.\r\n"
+    }
+]
+
+
