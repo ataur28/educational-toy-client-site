@@ -34,7 +34,7 @@ const router = createBrowserRouter([
             {
                 path: '/subDolls/:subDollsId',
                 element: <PrivateRoute><DollDetails></DollDetails></PrivateRoute>,
-                loader: ({ params }) => fetch('http://localhost:5000/dolls')
+                loader: ({ params }) => fetch('https://educational-toy-server-site.vercel.app/dolls')
             },
             {
                 path: '/login',
@@ -51,7 +51,7 @@ const router = createBrowserRouter([
             {
                 path: '/myDoll',
                 element: <PrivateRoute><MyDolls></MyDolls></PrivateRoute>,
-                // loader: ({ params }) => fetch('http://localhost:5000/dolls')
+                // loader: ({ params }) => fetch('https://educational-toy-server-site.vercel.app/dolls')
             },
             {
                 path: '/allMyDolls',
@@ -60,7 +60,7 @@ const router = createBrowserRouter([
             {
                 path: '/updateDollData/:id',
                 element: <UpdateDollData></UpdateDollData>,
-                loader: ({ params }) => fetch(`http://localhost:5000/dollsDetails/${params.id}`)
+                loader: ({ params }) => fetch(`https://educational-toy-server-site.vercel.app/dollsDetails/${params.id}`)
             },
             {
                 path: '*',

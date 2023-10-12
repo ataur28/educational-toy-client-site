@@ -15,7 +15,7 @@ const MyDolls = () => {
     // const {sellerEmail} = dolls;
 
     useEffect(() => {
-        fetch('http://localhost:5000/dolls')
+        fetch('https://educational-toy-server-site.vercel.app/dolls')
             .then(res => res.json())
             .then(data => setDolls(data))
     }, [])
@@ -30,7 +30,7 @@ const MyDolls = () => {
         // console.log(id);
         const proceed = confirm('Are You sure you want to delete');
         if (proceed) {
-            fetch(`http://localhost:5000/dolls/${id}`,{
+            fetch(`https://educational-toy-server-site.vercel.app/dolls/${id}`,{
                 method: 'DELETE'
             })
                 .then(res => res.json())

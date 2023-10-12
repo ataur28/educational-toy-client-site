@@ -24,7 +24,7 @@ const AddDoll = () => {
         const doll = {toyName, sellerName, sellerEmail, category, price, rating, quantity, details, picture}
         console.log(doll);
 
-        fetch('http://localhost:5000/dolls',{
+        fetch('https://educational-toy-server-site.vercel.app/dolls',{
             method: 'POST',
             headers: {
                 'content-type' : 'application/json'
