@@ -51,7 +51,7 @@ const AllMyDolls = ({ myDolls, handleDelete }) => {
                 {/* <input type="checkbox" id="my-modal-6" className="modal-toggle" /> */}
                 {/* <div className="modal modal-bottom sm:modal-middle">
                     <div className="modal-box">
-                        <h3 className="text-center font-bold text-3xl mb-5">Update Doll Data</h3>
+                        <h3 className="text-center font-bold text-3xl mb-5">Update Toy Data</h3>
 
                         <form>
                             <div className="form-control">
